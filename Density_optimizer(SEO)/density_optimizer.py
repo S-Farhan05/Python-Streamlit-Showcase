@@ -10,7 +10,7 @@ st.markdown("""
 st.markdown("""<hr style='border: 1px solid gray; width: 70%; margin: auto;'>""", unsafe_allow_html=True)
 
 
-st.subheader("An online Application used to detack keywords and optimize paragraphs and text for best using seo optimizing and practicing")
+st.subheader("An online Application used to detact keywords and optimize paragraphs for best using seo optimizing and practicing")
 
 text = st.text_area("Paragraph",width=500)
 word_dict = dict()
